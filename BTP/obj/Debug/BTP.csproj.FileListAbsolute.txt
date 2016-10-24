@@ -25,3 +25,12 @@ C:\Users\rlaxo\OneDrive\Documents\Club Activity\TP\BTP\BTP\BTP\obj\Debug\BTP.Pro
 C:\Users\rlaxo\OneDrive\Documents\Club Activity\TP\BTP\BTP\BTP\obj\Debug\BTP.csproj.GenerateResource.Cache
 C:\Users\rlaxo\OneDrive\Documents\Club Activity\TP\BTP\BTP\BTP\bin\Debug\BTP.exe
 C:\Users\rlaxo\OneDrive\Documents\Club Activity\TP\BTP\BTP\BTP\bin\Debug\BTP.pdb
+C:\Users\rlaxo\Documents\GitHub\layer7-ca\BTP\bin\Debug\BTP.exe.config
+C:\Users\rlaxo\Documents\GitHub\layer7-ca\BTP\obj\Debug\BTP.exe
+C:\Users\rlaxo\Documents\GitHub\layer7-ca\BTP\obj\Debug\BTP.pdb
+C:\Users\rlaxo\Documents\GitHub\layer7-ca\BTP\bin\Debug\BTP.exe
+C:\Users\rlaxo\Documents\GitHub\layer7-ca\BTP\bin\Debug\BTP.pdb
+C:\Users\rlaxo\Documents\GitHub\layer7-ca\BTP\obj\Debug\BTP.csprojResolveAssemblyReference.cache
+C:\Users\rlaxo\Documents\GitHub\layer7-ca\BTP\obj\Debug\BTP.Form1.resources
+C:\Users\rlaxo\Documents\GitHub\layer7-ca\BTP\obj\Debug\BTP.Properties.Resources.resources
+C:\Users\rlaxo\Documents\GitHub\layer7-ca\BTP\obj\Debug\BTP.csproj.GenerateResource.Cache
